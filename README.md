@@ -1,4 +1,4 @@
 comi_prj
 ========
 
-this is comi project extends from fitsi
+this is comi project extends from Jitsi
